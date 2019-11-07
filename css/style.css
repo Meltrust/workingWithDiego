@@ -1,0 +1,15 @@
+
+#nav-bar {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.flexbox {display: flex;}
+
+@media (max-height: 680px) {
+  body {
+    box-sizing: border-box;
+    padding: 0 20%;
+  }
+}
